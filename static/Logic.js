@@ -55,6 +55,7 @@ Highcharts.chart('container', {
 
     plotOptions: {
         series: {
+            tileShape: 'circle',
             dataLabels: {
                 enabled: true,
                 format: '{point.hc-a2}',
