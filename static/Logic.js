@@ -10,7 +10,7 @@ Highcharts.chart('container', {
     },
 
     title: {
-        text: 'U.S. states Median Income (2019-2017)'
+        text: '2019 Unemployment Rate'
     },
 
     subtitle: {
